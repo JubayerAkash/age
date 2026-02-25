@@ -1,0 +1,14 @@
+C:\Files\Academic Studies\C#\Codes\Age\Age\bin\Debug\net10.0\Age.exe
+C:\Files\Academic Studies\C#\Codes\Age\Age\bin\Debug\net10.0\Age.deps.json
+C:\Files\Academic Studies\C#\Codes\Age\Age\bin\Debug\net10.0\Age.runtimeconfig.json
+C:\Files\Academic Studies\C#\Codes\Age\Age\bin\Debug\net10.0\Age.dll
+C:\Files\Academic Studies\C#\Codes\Age\Age\bin\Debug\net10.0\Age.pdb
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\Age.AssemblyInfoInputs.cache
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\Age.AssemblyInfo.cs
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\Age.csproj.CoreCompileInputs.cache
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\Age.dll
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\refint\Age.dll
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\Age.pdb
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\Age.genruntimeconfig.cache
+C:\Files\Academic Studies\C#\Codes\Age\Age\obj\Debug\net10.0\ref\Age.dll
